@@ -1,8 +1,9 @@
-# Introduction to RE Data Analytics
-Includes notes and Assignments related to RE Data Analytics 2020/SU
+# RE Data Analytics
+
+Includes notes and Assignments
 
 
 #### Introduction to RE Data Analytics
-Course Work
+Course Work for Intro RE Data Analytics 2020/SU
 
 
