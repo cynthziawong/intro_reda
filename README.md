@@ -35,6 +35,7 @@ Week 5
 Applications to residential real estate, graduate school admissions, and the
 returns to education. Classical assumptions in regression and implications of
 their violation, including omitted variable bias.
+
 Week 6 
 An introduction to time series analysis. Common economic time series data.
 Characteristics of time series data. Seasonality and detrending.
