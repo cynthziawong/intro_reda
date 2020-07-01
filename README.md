@@ -5,11 +5,11 @@ Course Work for Intro RE Data Analytics 2020/SU
 
 ##
 Course Learning Outcomes
-By the end of the course, students will:
-➢ Gain a deeper understanding of empirical finance;
-➢ Gain an understanding of the power and the limitations of advanced analytics;
-➢ Gain an understanding of common macroeconomic and industry data sources;
-➢ Develop the ability to interpret and communicate statistical analyse
+> By the end of the course, students will:
+  - Gain a deeper understanding of empirical finance;
+  - Gain an understanding of the power and the limitations of advanced analytics;
+  - Gain an understanding of common macroeconomic and industry data sources;
+  - Develop the ability to interpret and communicate statistical analyse
 
 ## Course Overview
 
