@@ -3,7 +3,7 @@ Course Work for Intro RE Data Analytics 2020/SU
 
 > Real estate has become a sophisticated industry that now relies on advanced data analytics to drive investment and other critical decisions.  This course is designed to give students an understanding of the techniques of data analysis used in the industry.  Students will be exposed to hands-on examples of data analytics using data commonly seen in the industry.  Applied statistics will be presented using the open-source R statistical computing environment, together with the Jupyter notebook, an increasingly popular presentation environment.  Immersion in data ingestion, transformation and visualization will be immediate.  Students will gain real-world experience creating statistical analyses to drive informed decision-making in real estate investment decisions.
 
-## Course Learning Outcomes
+## Learning Outcomes
   - Gain a deeper understanding of empirical finance
   - Gain an understanding of the power and the limitations of advanced analytics
   - Gain an understanding of common macroeconomic and industry data sources
@@ -12,7 +12,7 @@ Course Work for Intro RE Data Analytics 2020/SU
 ## Course Overview
 
 Week 1 
-ourse introduction and overview. R, R Studio and the Jupyter notebook
+Course introduction and overview. R, R Studio and the Jupyter notebook
 environment. Sources of economic and real estate data. Overview of real estate
 and the use of data.
 
