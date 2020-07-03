@@ -39,7 +39,5 @@ Week 6
 An introduction to time series analysis. Common economic time series data.
 Characteristics of time series data. Seasonality and detrending.
 
-## Additional Materials
-
 ## Lecturer
 Professor Timothy Savage
