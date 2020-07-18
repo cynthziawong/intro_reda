@@ -40,4 +40,4 @@ An introduction to time series analysis. Common economic time series data.
 Characteristics of time series data. Seasonality and detrending.
 
 ## Lecturer
-Professor Timothy Savage
+Professor Timothy 
