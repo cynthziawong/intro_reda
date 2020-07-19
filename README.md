@@ -1,6 +1,6 @@
 # Introduction to RE Data Analytics
 
-Real estate has become a sophisticated industry that now relies on advanced data analytics to drive investment and other critical decisions.  This course is designed to give students an understanding of the techniques of data analysis used in the industry.  Students will be exposed to hands-on examples of data analytics using data commonly seen in the industry.  Applied statistics will be presented using the open-source R statistical computing environment, together with the Jupyter notebook, an increasingly popular presentation environment.  Immersion in data ingestion, transformation and visualization will be immediate.  Students will gain real-world experience creating statistical analyses to drive informed decision-making in real estate investment decisions.
+
 
 ## Learning Outcomes
   - Gain a deeper understanding of empirical finance
