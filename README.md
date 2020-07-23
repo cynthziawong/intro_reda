@@ -6,7 +6,7 @@ Real estate has become a sophisticated industry that now relies on advanced data
   - Gain a deeper understanding of empirical finance
   - Gain an understanding of the power and the limitations of advanced analytics
   - Gain an understanding of common macroeconomic and industry data sources
-  - Develop the ability to interpret and communicate statistical analyse
+  - Develop the ability to interpret and communicate statistical analyses
 
 ## Course Overview
 
